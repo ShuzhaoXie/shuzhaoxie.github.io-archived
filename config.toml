@@ -1,6 +1,7 @@
-baseURL = 'http://shuzhaoxie.github.io/'
+baseURL = 'https://shuzhaoxie.github.io/'
 languageCode = 'en-us'
 title = "2300yy"
+paginate = 5
 theme = "hugo-ink"
 
 [params]
