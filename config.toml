@@ -2,7 +2,14 @@ baseURL = 'https://shuzhaoxie.github.io/'
 languageCode = 'en-us'
 title = "2300yy"
 paginate = 5
-theme = "hugo-ink"
+theme = "ink"
+
+pygmentsstyle = "vs"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+# googleAnalytics = "UA-123-45"
+# disqusShortname = "ink-demo"
 
 [params]
 	subtitle = "躺在沙发上 变成没知觉的植物"
