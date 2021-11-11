@@ -2,5 +2,5 @@
 	path = themes/paper
 	url = https://github.com/nanxiaobei/hugo-paper
 [submodule "themes/hugo-ink"]
-	path = thems/hugo-ink
+	path = themes/hugo-ink
 	url = https://github.com/knadh/hugo-ink
