@@ -6,35 +6,33 @@ draft: false
 ---
 
 # Shuzhao Xie (解书照)
-Second year master @ Tsinghua university, major in Computer Science, advised by Zhi Wang.
+Second year master @ Tsinghua university, major in Computer Science, advised by [Zhi Wang](http://pages.mmlab.top).
 
-<div id="webaddress">
-<a href="xiesz1999@163.com">xiesz1999@163.com</a>
-</div>
+Email: xiesz1999 at 163 dot com
 
 ## Currently
 
 
 ### Research interests
 
-Edge Computing, Video analytics, Model Serving System, Distributed System.
+Edge Computing, Video Analytics, Model Serving System, Distributed System.
 
 ### Specialized in
 
-Coding, Photographing, Running, Soccer, Swimming
+Coding, Photographing, Running, Soccer, Swimming.
 
 
 ## Education
 
-`Sep 2016 - Jul 2020` __Beijing Normal University.__
+`Sep 2016 - Jul 2020` __Beijing Normal University__
 
 `Aug 2020 - now` __Tsinghua University__
 
 ## Awards
 
-`2018`  Bronze Prize, *ACM-ICPC region contest (Asia)*, Jiaozuo, CN
+`2018`  Bronze Prize, *ACM-ICPC asia region contest*, Jiaozuo, CN
 
-`2018`  Bronze Prize, *CCPC region contest (Asia)*, Qinhuangdao, CN
+`2018`  Bronze Prize, *CCPC asia region contest*, Qinhuangdao, CN
 
 ## Publications
 
@@ -44,6 +42,7 @@ Coding, Photographing, Running, Soccer, Swimming
 
 ## Skills
 
-**Language**: C/C++, Python, Rust
+**Language**: C/C++, Python, Rust.
 
-**Framework**: PyTorch, Docker, K8S
+**Framework**: PyTorch, Docker, K8S.
+
