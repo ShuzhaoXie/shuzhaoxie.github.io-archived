@@ -8,7 +8,7 @@ pygmentsstyle = "vs"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-# googleAnalytics = "UA-123-45"
+googleAnalytics = "G-M38H8NKHF9"
 # disqusShortname = "ink-demo"
 
 [params]
@@ -16,6 +16,7 @@ pygmentscodefencesguesssyntax = true
 
 	# Optional 64x64 avatar image.
 	avatar = "https://image.freepik.com/free-vector/young-man-head-with-beard-avatar-character_24877-36786.jpg"
+	# avatar = "static/img/tiger.jpg"
 	# Content types to disable Disqus on.
 	disableDisqusTypes = ["page"]
 	
