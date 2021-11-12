@@ -15,8 +15,7 @@ pygmentscodefencesguesssyntax = true
 	subtitle = "躺在沙发上 变成没知觉的植物"
 
 	# Optional 64x64 avatar image.
-	# avatar = "https://image.freepik.com/free-vector/young-man-head-with-beard-avatar-character_24877-36786.jpg"
-	avatar = "/data/avatar.jpg"
+	avatar = "https://image.freepik.com/free-vector/young-man-head-with-beard-avatar-character_24877-36786.jpg"
 	# Content types to disable Disqus on.
 	disableDisqusTypes = ["page"]
 	
