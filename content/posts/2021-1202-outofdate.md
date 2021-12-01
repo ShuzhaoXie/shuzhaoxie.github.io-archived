@@ -1,7 +1,7 @@
 ---
 title: "跟不上时代的人"
 date: 2021-12-02T02:41:51+08:00
-draft: true
+tags: [thoughts]
 ---
 
 最近经历很多挫折，被女生拒绝，被MSRA拒绝，被INFOCOM拒绝。
