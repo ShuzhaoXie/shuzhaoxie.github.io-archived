@@ -38,7 +38,7 @@ Coding, Photographing, Running, Soccer, Swimming.
 
 ### Conferences
 
-`2021` Cost Effective MLaaS Federation: A Combinatorial Reinforcement Approach. **Shuzhao Xie**, Yuan Xue, Yifei Zhu, Zhi Wang. (Under Review)
+**Shuzhao Xie**, Yuan Xue, Yifei Zhu, Zhi Wang. Cost Effective MLaaS Federation: A Combinatorial Reinforcement Approach. INFOCOM 2022
 
 ## Skills
 
